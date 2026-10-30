@@ -1,12 +1,24 @@
 # Hi, I'm Fábio 👋
 
-**IT & Multimedia Technician | Linux · Docker · Local AI · Automation**
+**Agentic Systems Development & AI Automation | Local LLMs · Linux · Self-hosting**
 
 Based in Portugal 🇵🇹
 
-I'm a hands-on technology enthusiast with a background in IT support, computer hardware, networking and multimedia.
+My background is in IT support, hardware, networking and multimedia. I apply that hands-on experience to the design and evaluation of **agentic AI workflows**, local language models, automation and Linux-based infrastructure.
 
-I design, build and experiment with self-hosted infrastructure, local artificial intelligence and automation systems, combining practical engineering with continuous learning.
+My focus is on how AI systems are **architected, coordinated, tested and governed** — not just the applications they produce.
+
+## Agentic Systems Development & AI Automation
+
+My current engineering practice explores:
+
+- **Multi-agent workflows:** scoped implementation, technical review, correction and reconciliation across different AI-assisted tools.
+- **Human-in-the-loop control:** explicit approval of sensitive actions, with clear ownership and boundaries.
+- **Agent safety and governance:** controlled tool use, permissions, concurrency awareness and traceable decisions.
+- **Local LLM evaluation:** task-specific benchmarks, reproducible tests and evidence-based comparisons.
+- **Linux automation:** practical Python/Bash tooling and self-hosted infrastructure.
+
+These are ongoing development and research activities. Experimental results are not claims of production certification.
 
 ## What I'm working on
 
@@ -42,13 +54,17 @@ Focused on reliability, privacy, maintainability and learning through real-world
 
 **Development:** Python · JavaScript · Automation
 
-**Artificial Intelligence:** Ollama · Local LLMs · AI Agents · Model Evaluation
+**Agentic Systems:** AI Agent Workflows · Orchestration · Tool Boundaries · Human-in-the-loop · Evaluation
+
+**Artificial Intelligence:** Ollama · Local LLMs · Model Benchmarking · AI-assisted Development
 
 ## Engineering Philosophy
 
 I believe in practical learning, modular architecture, open-source technologies and privacy-conscious solutions.
 
-My projects follow an iterative process: design, implementation, testing, independent review and continuous improvement.
+I use AI coding assistants and local models as engineering tools. **My role is to define the requirements, design the approach, coordinate the work, review evidence and approve changes**. Code and other outputs are tested and reviewed rather than treated as correct simply because an AI produced them.
+
+My projects follow an iterative process: design, scoped implementation, testing, review, correction and continuous improvement.
 
 ## Portfolio
 
