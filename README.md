@@ -24,7 +24,9 @@ A modular ecosystem exploring the integration of:
 
 **Status:** Active development and technical validation.
 
-A public, sanitized demonstration is planned. Internal source code and infrastructure configurations remain private.
+**Public showcase:** [Explore the JARVIS / AIOps Engineering Showcase](https://github.com/BRMff/jarvis-aiops-showcase)
+
+A documentation-only showcase featuring conceptual architecture, engineering practices and technical validation principles. Original source code and infrastructure configurations remain private.
 
 ### 🖥️ Homelab & Self-hosted Infrastructure
 
@@ -50,9 +52,9 @@ My projects follow an iterative process: design, implementation, testing, indepe
 
 ## Portfolio
 
-Some repositories remain private while under development or technical validation.
+**Featured project:** [JARVIS / AIOps — Engineering Showcase](https://github.com/BRMff/jarvis-aiops-showcase) — public documentation, conceptual visuals and validation principles. No private source code is included.
 
-Selected demonstrations, documentation and project showcases will be published separately when ready.
+Other repositories remain private while under development or technical validation. Additional showcases will be published separately when ready.
 
 ---
 
