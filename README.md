@@ -73,7 +73,7 @@ My projects follow an iterative process: design, scoped implementation, testing,
 
 A lightweight, read-only Linux CLI producing JSON and Markdown health reports.
 
-- 37 synthetic tests passed on two Linux environments
+- CI: 37 synthetic tests on Python 3.10–3.12 · JSON/Markdown output · no runtime dependencies
 - Independent AI-assisted engineering review
 - Human-controlled development and approval gates
 - [Repository](https://github.com/BRMff/linux-health-reporter) · [v0.1.0 pre-release](https://github.com/BRMff/linux-health-reporter/releases/tag/v0.1.0)
