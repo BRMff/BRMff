@@ -66,11 +66,28 @@ I use AI coding assistants and local models as engineering tools. **My role is t
 
 My projects follow an iterative process: design, scoped implementation, testing, review, correction and continuous improvement.
 
-## Portfolio
+## Featured Projects
 
-**Featured project:** [JARVIS / AIOps — Engineering Showcase](https://github.com/BRMff/jarvis-aiops-showcase) — public documentation, conceptual visuals and validation principles. No private source code is included.
+### 🐧 Linux Health Reporter
+**Open Source · Python · Linux · MIT License**
 
-Other repositories remain private while under development or technical validation. Additional showcases will be published separately when ready.
+A lightweight, read-only Linux CLI producing JSON and Markdown health reports.
+
+- 37 synthetic tests passed on two Linux environments
+- Independent AI-assisted engineering review
+- Human-controlled development and approval gates
+- [Repository](https://github.com/BRMff/linux-health-reporter) · [v0.1.0 pre-release](https://github.com/BRMff/linux-health-reporter/releases/tag/v0.1.0)
+
+### 🤖 JARVIS / AIOps — Engineering Showcase
+**Local AI · Agentic Systems · Observability**
+
+Public documentation of experimental architecture, engineering practices and validation principles.
+
+[Explore the showcase](https://github.com/BRMff/jarvis-aiops-showcase)
+
+Original project source code and infrastructure configurations remain private.
+
+Additional projects will be published when ready.
 
 ---
 
